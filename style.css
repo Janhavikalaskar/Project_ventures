@@ -1,0 +1,1199 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  width: 1248px;
+  height: 4041px;
+  position: relative;
+}
+
+.desktop .wave {
+  position: absolute;
+  width: 1248px;
+  height: 103px;
+  top: 100px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1248px;
+  height: 1361px;
+  top: 2665px;
+  left: 0;
+}
+
+.desktop .contact-us {
+  position: absolute;
+  width: 1248px;
+  height: 660px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.desktop .contact-us-text {
+  width: 247px;
+  top: 81px;
+  left: 775px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 42px;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .contact-img {
+  position: absolute;
+  width: 546px;
+  height: 575px;
+  top: 41px;
+  left: 60px;
+  object-fit: cover;
+}
+
+.desktop .contact-info {
+  position: absolute;
+  width: 425px;
+  height: 338px;
+  top: 190px;
+  left: 775px;
+}
+
+.desktop .call-us {
+  position: absolute;
+  width: 187px;
+  top: 0;
+  left: 67px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.desktop .span {
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.desktop .info {
+  font-size: 17.2px;
+}
+
+.desktop .mail-us {
+  position: absolute;
+  width: 187px;
+  top: 98px;
+  left: 73px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+
+.desktop .career-jobs {
+  width: 187px;
+  top: 193px;
+  left: 68px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 19.1px;
+  line-height: 30px;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.desktop .location-a {
+  position: absolute;
+  width: 349px;
+  top: 288px;
+  left: 68px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 19.1px;
+  letter-spacing: 0;
+  line-height: 19.1px;
+}
+
+.desktop .location-text {
+  line-height: 30px;
+}
+
+.desktop .add {
+  font-size: 17.2px;
+  line-height: 30px;
+}
+
+.desktop .call-icon {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 9px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .mail-icon {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 104px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .career-icon {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 200px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .location-icon {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 295px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .footer {
+  position: absolute;
+  width: 1248px;
+  height: 713px;
+  top: 655px;
+  left: 0;
+  background-color: transparent;
+  background: linear-gradient(180deg, rgba(247.99, 208.31, 208.31, 0.97) 0%, rgb(244, 255, 167) 100%);
+}
+
+.desktop .footer-heading {
+  position: absolute;
+  width: 477px;
+  height: 461px;
+  top: 198px;
+  left: 60px;
+}
+
+.desktop .KEEP-THE-GOOD-VIBES {
+  position: absolute;
+  width: 469px;
+  top: 0;
+  left: 2px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 444px;
+  top: 170px;
+  left: 2px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .copyright {
+  position: absolute;
+  width: 222px;
+  top: 426px;
+  left: 7px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .newsletter-btn {
+  position: absolute;
+  width: 224px;
+  height: 60px;
+  top: 298px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 50px;
+  overflow: hidden;
+/*  box-shadow: 0px 2px 2px #00000026;*/
+  box-shadow: 0px 1.62px 1.62px #00000026;
+}
+
+.desktop .newsletter-text {
+  position: absolute;
+  width: 142px;
+  top: 20px;
+  left: 19px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .arrow-img {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 7px;
+  left: 171px;
+  background-color: #ef6a31;
+  border-radius: 25px;
+}
+
+.desktop .arrow-right {
+  position: absolute;
+  width: 17px;
+  height: 28px;
+  top: 8px;
+  left: 14px;
+}
+
+.desktop .footer-menu {
+  position: absolute;
+  width: 314px;
+  height: 195px;
+  top: 249px;
+  left: 849px;
+}
+
+.desktop .f-1 {
+  position: absolute;
+  width: 86px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .f-2 {
+  position: absolute;
+  width: 86px;
+  top: 3px;
+  left: 199px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .f-3 {
+  position: absolute;
+  width: 86px;
+  top: 55px;
+  left: 0;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .f-4 {
+  position: absolute;
+  width: 86px;
+  top: 58px;
+  left: 199px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .f-5 {
+  position: absolute;
+  width: 86px;
+  top: 110px;
+  left: 0;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .f-6 {
+  width: 101px;
+  top: 113px;
+  left: 199px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 18px;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .f-7 {
+  position: absolute;
+  width: 86px;
+  top: 165px;
+  left: 0;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .social-icon {
+  position: absolute;
+  width: 247px;
+  height: 45px;
+  top: 561px;
+  left: 870px;
+}
+
+.desktop .s-3 {
+  position: absolute;
+  width: 44px;
+  height: 43px;
+  top: 2px;
+  left: 135px;
+  object-fit: cover;
+}
+
+.desktop .s-1 {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  top: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .s-2 {
+  position: absolute;
+  width: 43px;
+  height: 43px;
+  top: 1px;
+  left: 68px;
+  object-fit: cover;
+}
+
+.desktop .s-4 {
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  top: 0;
+  left: 203px;
+  object-fit: cover;
+}
+
+.desktop .wave-2 {
+  position: absolute;
+  width: 1248px;
+  height: 75px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .our-services {
+  position: absolute;
+  width: 1248px;
+  height: 867px;
+  top: 1800px;
+  left: 0;
+  background-color: #feeaf6;
+}
+
+.desktop .our-service-text {
+  position: absolute;
+  width: 255px;
+  top: 170px;
+  left: 57px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .our-service-info {
+  position: absolute;
+  width: 601px;
+  height: 423px;
+  top: 299px;
+  left: 57px;
+}
+
+.desktop .creative {
+  position: absolute;
+  width: 269px;
+  height: 109px;
+  top: 0;
+  left: 4px;
+}
+
+.desktop .img-1 {
+  position: absolute;
+  width: 28px;
+  height: 44px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .creative-text {
+  position: absolute;
+  width: 83px;
+  top: 11px;
+  left: 47px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .creative-info {
+  position: absolute;
+  width: 265px;
+  top: 68px;
+  left: 0;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #8a5b5bf2;
+  font-size: 14.9px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .public-relation {
+  position: absolute;
+  width: 266px;
+  height: 106px;
+  top: 3px;
+  left: 323px;
+}
+
+.desktop .img-2 {
+  position: absolute;
+  width: 32px;
+  height: 38px;
+  top: 0;
+  left: 5px;
+  object-fit: cover;
+}
+
+.desktop .public-relation-text {
+  position: absolute;
+  width: 163px;
+  top: 8px;
+  left: 63px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .public-relation-info {
+  width: 262px;
+  top: 65px;
+  left: 0;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #8a5b5bf2;
+  font-size: 14.9px;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.desktop .event-exibition {
+  position: absolute;
+  width: 286px;
+  height: 98px;
+  top: 172px;
+  left: 0;
+}
+
+.desktop .img-3 {
+  position: absolute;
+  width: 31px;
+  height: 39px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .event-exhibition-text {
+  position: absolute;
+  width: 180px;
+  top: 10px;
+  left: 51px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .event-exhibition-info {
+  width: 278px;
+  top: 57px;
+  left: 4px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #8a5b5bf2;
+  font-size: 14.9px;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.desktop .media {
+  position: absolute;
+  width: 282px;
+  height: 100px;
+  top: 170px;
+  left: 323px;
+}
+
+.desktop .img-4 {
+  position: absolute;
+  width: 43px;
+  height: 41px;
+  top: 0;
+  left: 5px;
+  object-fit: cover;
+}
+
+.desktop .media-text {
+  width: 68px;
+  top: 16px;
+  left: 63px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  position: absolute;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .media-info {
+  width: 278px;
+  top: 59px;
+  left: 0;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #8a5b5bf2;
+  font-size: 14.9px;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.desktop .digital-IT {
+  position: absolute;
+  width: 273px;
+  height: 91px;
+  top: 332px;
+  left: 0;
+}
+
+.desktop .img-5 {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .digital-IT-text {
+  position: absolute;
+  width: 109px;
+  top: 14px;
+  left: 51px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .digital-IT-info {
+  width: 265px;
+  top: 50px;
+  left: 4px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #8a5b5bf2;
+  font-size: 14.9px;
+  line-height: normal;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.desktop .img-group {
+  position: absolute;
+  width: 520px;
+  height: 804px;
+  top: 0;
+  left: 670px;
+}
+
+.desktop .vector-circle {
+  position: absolute;
+  width: 148px;
+  height: 153px;
+  top: 81px;
+  left: 372px;
+  object-fit: cover;
+}
+
+.desktop .yummy-ice-cream-cone {
+  position: absolute;
+  width: 520px;
+  height: 804px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .mask-group {
+  position: absolute;
+  width: 70px;
+  height: 13px;
+  top: 115px;
+  left: 73px;
+}
+
+.desktop .home {
+  position: absolute;
+  width: 1247px;
+  height: 908px;
+  top: 197px;
+  left: 1px;
+  background-color: #f7ffd9;
+}
+
+.desktop .noun-creative {
+  position: absolute;
+  width: 45px;
+  height: 63px;
+  top: 737px;
+  left: 233px;
+  object-fit: cover;
+}
+
+.desktop .noun-data {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 743px;
+  left: 600px;
+  object-fit: cover;
+}
+
+.desktop .noun-customer {
+  position: absolute;
+  width: 58px;
+  height: 51px;
+  top: 737px;
+  left: 964px;
+  object-fit: cover;
+}
+
+.desktop .tailored-creative {
+  position: absolute;
+  width: 148px;
+  top: 824px;
+  left: 192px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text {
+  color: #000000;
+}
+
+.desktop .text-green {
+  color: #a0bf24;
+}
+
+.desktop .data-driven-results {
+  position: absolute;
+  width: 148px;
+  top: 824px;
+  left: 547px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .personalized-client {
+  position: absolute;
+  width: 169px;
+  top: 824px;
+  left: 903px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: transparent;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .bulb-shadow {
+  position: absolute;
+  width: 367px;
+  height: 67px;
+  top: 608px;
+  left: 765px;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 1152px;
+  height: 570px;
+  top: 17px;
+  left: 51px;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 1152px;
+  height: 570px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .bulb {
+  position: absolute;
+  width: 419px;
+  height: 570px;
+  top: 0;
+  left: 733px;
+  object-fit: cover;
+}
+
+.desktop .frame {
+  display: flex;
+  flex-wrap: wrap;
+  width: 774px;
+  align-items: center;
+  gap: 13px 13px;
+  position: absolute;
+  top: 300px;
+  left: 0;
+}
+
+.desktop .advertising {
+  position: relative;
+  width: 471px;
+  height: 82px;
+  margin-top: -1px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .with-our-results {
+  position: relative;
+  width: 290px;
+  height: 70px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .group-wrapper {
+  position: absolute;
+  width: 202px;
+  height: 54px;
+  top: 516px;
+  left: 0;
+}
+
+.desktop .contact {
+  width: 204px;
+  height: 54px;
+}
+
+.desktop .contact-us-btn {
+  position: relative;
+  width: 202px;
+  height: 54px;
+  background-color: #ffffff;
+  border-radius: 50px;
+  box-shadow: 0px 1.62px 1.62px #00000026;
+}
+
+.desktop .btn-text {
+  width: 121px;
+  top: 15px;
+  left: 20px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 18px;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .vector-phone {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 4px;
+  left: 151px;
+  background-color: #ef6a31;
+  border-radius: 22.5px;
+}
+
+.desktop .phone-icon {
+  position: absolute;
+  width: 22px;
+  height: 24px;
+  top: 11px;
+  left: 11px;
+}
+
+.desktop .ELEVATE-YOUR-POWER {
+  position: absolute;
+  width: 586px;
+  top: 66px;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 68px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .grow-your-product {
+  position: absolute;
+  width: 1247px;
+  height: 668px;
+  top: 1100px;
+  left: 1px;
+  background-color: #ffffff;
+}
+
+.desktop .wave-3 {
+  position: absolute;
+  width: 1248px;
+  height: 71px;
+  top: 631px;
+  left: -1px;
+  object-fit: cover;
+}
+
+.desktop .group-1 {
+  top: 458px;
+  left: 1163px;
+  position: absolute;
+  width: 37px;
+  height: 151px;
+  object-fit: cover;
+}
+
+.desktop .group-2 {
+  top: 38px;
+  left: 47px;
+  position: absolute;
+  width: 37px;
+  height: 151px;
+  object-fit: cover;
+}
+
+.desktop .grow-products {
+  position: absolute;
+  width: 515px;
+  height: 499px;
+  top: 40px;
+  left: 598px;
+}
+
+.desktop .p-1 {
+  width: 506px;
+  top: 432px;
+  left: 1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  line-height: 20px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.desktop .p-3 {
+  width: 506px;
+  top: 160px;
+  left: 1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  line-height: 20px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.desktop .grow-your-products {
+  position: absolute;
+  width: 500px;
+  top: 0;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: transparent;
+  font-size: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-orange {
+  color: #ef6a31;
+}
+
+.desktop .p-2 {
+  position: absolute;
+  width: 506px;
+  top: 257px;
+  left: 1px;
+  font-family: "Inter-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.desktop .car {
+  position: absolute;
+  width: 432px;
+  height: 447px;
+  top: 89px;
+  left: 109px;
+  object-fit: cover;
+}
+
+.desktop .group-3 {
+  position: absolute;
+  width: 70px;
+  height: 13px;
+  top: 570px;
+  left: 66px;
+  object-fit: cover;
+}
+
+.desktop .header {
+  position: absolute;
+  width: 1248px;
+  height: 59px;
+  top: 17px;
+  left: 0;
+  background-color: transparent;
+}
+
+.desktop .navbar {
+  position: absolute;
+  width: 581px;
+  height: 22px;
+  top: 15px;
+  left: 367px;
+}
+
+.desktop .h-1 {
+  width: 65px;
+  top: 1px;
+  left: 0;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  white-space: nowrap;
+  position: absolute;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .h-2 {
+  position: absolute;
+  width: 101px;
+  top: 0;
+  left: 85px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .h-3 {
+  position: absolute;
+  width: 91px;
+  top: 0;
+  left: 207px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .h-4 {
+  position: absolute;
+  width: 60px;
+  top: 0;
+  left: 320px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .h-5 {
+  position: absolute;
+  width: 74px;
+  top: 0;
+  left: 400px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .h-6 {
+  width: 73px;
+  top: 0;
+  left: 496px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: normal;
+  white-space: nowrap;
+  position: absolute;
+  color: #000000;
+  letter-spacing: 0;
+}
+
+.desktop .logo {
+  position: absolute;
+  width: 186px;
+  height: 42px;
+  top: 9px;
+  left: 37px;
+  object-fit: cover;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 191px;
+  height: 54px;
+  top: 0;
+  left: 1019px;
+}
+
+.desktop .quote-btn {
+  position: relative;
+  width: 189px;
+  height: 54px;
+  background-color: #ffffff;
+  border-radius: 50px;
+  box-shadow: 0px 1.62px 1.62px #00000026;
+}
+
+.desktop .quote-img-icon {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 3px;
+  left: 138px;
+  object-fit: cover;
+}
+
+.desktop .get-quote {
+  position: absolute;
+  width: 93px;
+  top: 20px;
+  left: 22px;
+  font-family: "Inter-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #000000;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
